@@ -1,0 +1,23 @@
+{
+  "name": "oshw-basic",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open --remote",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.36.11",
+    "@slidev/theme-apple-basic": "^0.20.0",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  },
+  "devDependencies": {
+    "@iconify-json/fa": "^1.1.2",
+    "@iconify-json/gg": "^1.1.2",
+    "@iconify-json/logos": "^1.1.18",
+    "@iconify-json/simple-icons": "^1.1.34",
+    "@iconify-json/tabler": "^1.1.46",
+    "@iconify-json/uim": "^1.1.2"
+  }
+}
