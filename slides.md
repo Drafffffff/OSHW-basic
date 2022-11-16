@@ -4,7 +4,7 @@ lineNumbers: true
 drawings:
   persist: false
 css: unocss
-download: true
+download: false
 title: 开源硬件基础
 ---
 
