@@ -2,7 +2,7 @@
   "name": "oshw-basic",
   "private": true,
   "scripts": {
-    "build": "slidev build --base",
+    "build": "slidev build --base /OSHW-basic/",
     "dev": "slidev --open --remote",
     "export": "slidev export"
   },
